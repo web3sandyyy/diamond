@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import { ArrowRight, Award, Leaf, Shield, Truck, Calendar, Phone, MessageCircle, Sparkles } from "lucide-react";
+import { ArrowRight, Award, Leaf, Shield, Truck, Calendar, Phone, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ProductCard, TestimonialCarousel, QuickViewModal, ConsultationModal } from "@/components";
 import { CATEGORIES, TRUST_BADGES, STORY, BRAND } from "@/constants";
